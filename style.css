@@ -1,0 +1,25 @@
+h2{
+    color: solid black;
+    
+}
+.date{
+    
+    color:dodgerblue;
+     font-size: large;
+    
+     
+}
+img{
+    height: 300px;
+    width: 100%;
+    }
+    
+       body{
+        border: 10px solid grey;
+        padding:10px;
+       }
+   .margin{
+       border-left: 5px solid gray;
+       padding-left: 5px;
+      
+   }
